@@ -24,5 +24,10 @@ Na construção da ávore binária, foi utilizada a fila de prioridade para agru
 Na geração dos códigos, o código é feito apartir do caminho que foi necessário percorrer para chegar até o simbolo, sendo 0 a esqueda e 1 a direita.
 
 Link do repositório: https://github.com/Martinz11/Huffman-Enoder/tree/main/Huffman
+
+
+
+
+
   
 ---
