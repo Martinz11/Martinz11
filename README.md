@@ -4,7 +4,7 @@
 
 🚀 Tenho muito interesse em cibersegurança, e estou buscando expandir meus conhecimento para conseguir alcançar esse objetivo.
 
-
+---
 
 ## Tecnologias e ferramentas
 <div>
@@ -14,6 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg" height= "40">
 </div>
 
+---
 
 ## Projetos 
 
@@ -24,3 +25,4 @@ Na geração dos códigos, o código é feito apartir do caminho que foi necess�
 
 Link do repositório: https://github.com/Martinz11/Huffman-Enoder/tree/main/Huffman
   
+---
