@@ -18,6 +18,9 @@
 
 **📜Codificador de huffman - Java **
 Esse projeto foi introduzido durante uma aula de Estrutura de dados, onde nós precisavamos fazer a codificação de huffman utilizando Java. O codificador de Huffman é um método de compressão, atribui valores binários aos simbolos de entrada, onde os menos frequentes tem valores menores e os mais frequentes valores menores.
-Utiliza-se a fila de prioridade, 
+Na construção da ávore binária, foi utilizada a fila de prioridade para agrupar os nós de menor frequência até restar a raiz.
+Na geração dos códigos, o código é feito apartir do caminho que foi necessário percorrer para chegar até o simbolo, sendo 0 a esqueda e 1 a direita.
+
+Link do repositório: https://github.com/Martinz11/Huffman-Enoder/tree/main/Huffman
   
 --
